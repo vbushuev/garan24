@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:21:04	47/47	U-----	200	untouched ('OK')	text/plain	etag:%22342b77-1b-50c85f5d34280%22	https://www.klarnacheckout.com/robots.txt		(from )
+19:21:05	24587/24587	U--M-Z	200	updated ('OK')	text/html	date:Thu,%2007%20Apr%202016%2016:21:00%20GMT	https://www.klarnacheckout.com/	C:/bin/nginx-1.8.0/html/garan24/examples/garan24/www.klarnacheckout.com/index.html	(from )
+19:21:05	57014/57014	---M-Z	200	added ('OK')	text/html	date:Thu,%2007%20Apr%202016%2016:21:00%20GMT	https://www.klarnacheckout.com/home/?from_splash=1&start_tour=1	C:/bin/nginx-1.8.0/html/garan24/examples/garan24/www.klarnacheckout.com/home/indexb46a.html	(from )
+19:21:06	0/0	---M-Z	302	error ('Found')	text/html	date:Thu,%2007%20Apr%202016%2016:21:01%20GMT	https://www.klarnacheckout.com/checkout/klarna/	C:/bin/nginx-1.8.0/html/garan24/examples/garan24/www.klarnacheckout.com/checkout/klarna/index.html	(from )
+19:21:08	37906/37906	---M-Z	200	added ('OK')	text/html	date:Thu,%2007%20Apr%202016%2016:21:03%20GMT	https://www.klarnacheckout.com/checkout/cart/	C:/bin/nginx-1.8.0/html/garan24/examples/garan24/www.klarnacheckout.com/checkout/cart/index.html	(from https://www.klarnacheckout.com/checkout/klarna/)

@@ -1,0 +1,16 @@
+HTTrack3.48-21+htsswf+htsjava launched on Thu, 07 Apr 2016 19:21:03 at https://www.klarnacheckout.com https://www.klarnacheckout.com/home/?from_splash=1&start_tour=1 https://www.klarnacheckout.com/checkout/klarna/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://www.klarnacheckout.com https://www.klarnacheckout.com/home/?from_splash=1&start_tour=1 https://www.klarnacheckout.com/checkout/klarna/ -O1 "C:\bin\nginx-1.8.0\html\garan24\examples\garan24" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:21:05	Warning: 	Link https://www.klarnacheckout.com/ not scanned (follow robots meta tag)
+19:21:06	Warning: 	Link https://www.klarnacheckout.com/home/?from_splash=1&start_tour=1 not scanned (follow robots meta tag)
+19:21:06	Warning: 	Found for https://www.klarnacheckout.com/checkout/klarna/
+19:21:06	Warning: 	File has moved from https://www.klarnacheckout.com/checkout/klarna/ to https://www.klarnacheckout.com/checkout/cart/
+19:21:08	Warning: 	Link https://www.klarnacheckout.com/checkout/cart/ not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.48-21 mirror complete in 5 seconds : 5 links scanned, 3 files written (119507 bytes overall), 3 files updated [30718 bytes received at 6143 bytes/sec], 119507 bytes transferred using HTTP compression in 4 files, ratio 23%
+(No errors, 5 warnings, 0 messages)
